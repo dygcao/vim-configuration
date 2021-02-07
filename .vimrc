@@ -7,3 +7,7 @@ Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'rking/ag.vim'
 
 call plug#end()
+
+let loaded_netrwPlugin = 1
+
+au VimEnter *  NERDTree
