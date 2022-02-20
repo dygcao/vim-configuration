@@ -6,6 +6,8 @@ Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 
 Plug 'rking/ag.vim'
 
+Plug 'brooth/far.vim'
+
 call plug#end()
 
 let loaded_netrwPlugin = 1
